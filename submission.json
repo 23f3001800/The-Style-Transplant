@@ -1,0 +1,29 @@
+{
+  "prompt": "Ukiyo-e woodblock print composition. A Kabuki theatre interior viewed from 
+a raked angle. Dozens of audience members fill the space — every one of 
+them rendered as flat simplified silhouettes in pale ochre and soft grey, 
+minimal line work, faces as blank ovals, no individual detail. One actor 
+at center stage is rendered in full Ukiyo-e precision: bold variable-weight 
+black ink outlines, elaborate kimono with geometric mon pattern in flat 
+beni red and ai indigo blue, fully detailed face with white oshiroi makeup, 
+precise hand gesture. The rendering contrast between the detailed actor and 
+the undifferentiated audience is stark and immediate. Flat unmodulated color 
+within all outlines. Visible woodgrain texture in solid color areas. Sky-area 
+bokashi gradient in pale blue above the stage. Asymmetric composition, 
+subject positioned at left-third. No Western atmospheric perspective. 
+Muted palette: beni red, ai indigo, ki ochre, pale grey, black. 
+No photographic shading. No gradients except background bokashi. 
+No text, no legible labels, blank cartouche area.
+
+Negative: western perspective, cast shadows, photographic gradients, 
+full color spectrum, serif fonts, text, modern elements, 3D shading, 
+airbrush effects, realistic anatomy",
+  "model": "Midjourney v6.",
+  "concept": "attention mechanism",
+  "tradition_name": "Ukiyo-e Japanese woodblock print",
+  "tradition_period": "1603–1868, Edo period",
+  "tradition_approach": "Flat unmodulated color within bold variable-weight 
+  outlines; hierarchical figure detail (not size) encodes attention weights; 
+  woodgrain texture; beni/ai/ki palette; raked perspective without vanishing 
+  point."
+}
